@@ -12,7 +12,7 @@ class MyWindow(QMainWindow):
 
         # MainWindow 
         self.setGeometry(300, 300, 750, 300)
-        self.setWindowTitle("Hankang Bot v0.1")
+        self.setWindowTitle("Hangang Bot v0.1")
 
         # Timer 
         self.timer = QTimer(self)
